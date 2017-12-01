@@ -17,8 +17,8 @@ void displayBitTable(char *title,char *table, long tabsize)
     cout << endl;
 }
 
-void displayAsHex(char *title,int i,char *table, long tabsize)
-{ cout <<title<<i<< " :\t";
+void displayAsHex(char* title,int k,char *table, long tabsize)
+{ cout <<title<<k<< " :\t";
     long hexsize = tabsize/4;
 
     char hexcodes[16]={'0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F'};
