@@ -7,6 +7,9 @@
 
 using namespace std;
 
+
+// https://www.myefrei.fr/moodle/pluginfile.php/74480/mod_resource/content/4/TP1%20Implementing%20a%20symmetric%20cryptographic%20protocol%20DES%20_%20v2.pdf
+
 int main()
 {
 

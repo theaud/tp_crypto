@@ -3,6 +3,8 @@
 
 using namespace std;
 
+//
+
 void displayBitTable(char *title,char *table, long tabsize)
 { cout <<endl<<title<< " :";
     for(long i=0; i < tabsize;i++)
